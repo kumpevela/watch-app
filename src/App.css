@@ -1,0 +1,61 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.title{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  font-size: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    min-width: 130px;
+    height: 40px;
+    color: red;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    background-image: linear-gradient(30deg, #9cb0a2 0, #8fab9c 8.33%, #80a596 16.67%, #6e9e91 25%, #58978c 33.33%, #3c8e88 41.67%, #008585 50%, #007b83 58.33%, #007283 66.67%, #006a85 75%, #006287 83.33%, #005b89 91.67%, #00558c 100%);;
+    overflow: hidden;
+    border: 2px solid #212529;
+    color: #212529;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .main {
+    justify-content: center;
+    display: flex;
+  }
+
+.hour {
+  justify-content: center;
+  display: flex;
+}
+
+.buttons {
+  text-align: center;
+  display: flex;
+}
+
+.stopwatch {
+  text-align: center;
+}
+
+.body {
+  background-color: #566573
+}
