@@ -28,6 +28,7 @@ const Countdown = () => {
     return (
       <div className="countdown">
         <h2>{time}</h2>
+          <img src="https://i.ibb.co/1K6Q6TX/upgrade.png" />
       </div>
     );
   };

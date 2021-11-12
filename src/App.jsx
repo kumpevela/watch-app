@@ -19,6 +19,8 @@ const App = () => {
       </Link>
       <Link to="/Countdown">
           <button>Countdown</button>
+          <div className= "photo">
+          </div>
       </Link>
       </header>
 <div className= "hour">
